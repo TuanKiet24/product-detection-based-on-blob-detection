@@ -12,3 +12,6 @@ Here, I have 2 videos to check the results of running my code. Each video is dif
 
 I use a circle detection method called Blob Detection. However, you can research another method called HoughCircles. I hope this will help you improve your results.
 
+<div align="center"> <div style="text-align: center;">  <img src="image/method_1.png" alt="Method 1" style="width: 50%; height: auto; text-align: center">  </div> </div>
+
+<div align="center"><b><i>Algorithmic flow chart</i></b></div>
